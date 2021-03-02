@@ -28,7 +28,7 @@
 			</c:if>
 
 			<c:if test="${empty msg}">
-				Welcome Welcome!
+				Olympus has fallen!
 			</c:if>
 		<p>
 			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Welcome To Mithun Technologies, Marathahalli, Oklahama.</h2>
+			<h3>Contact @ +91-8296242028 ,+91-9980923226, Happy to help</h3>
 		</div>	
 	</div>
 
